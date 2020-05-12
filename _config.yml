@@ -54,7 +54,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: Powered by <a href="https://github.com/bonelingu">TerminusBot</a>
+footer-text: Powered by <a href="https://github.com/bonelingu">bonelingu</a>
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
