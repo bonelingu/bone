@@ -9,7 +9,7 @@ categories: Archive
 
 tags: English learning
 
-description: too，very，absululy
+description: too，very，absolutely, too much, too many
 ---
 - Too describes something negative or unwanted. Very makes the adjective stronger. The words not too with an adjective shows that there isn't a problem.
 - We don't use very with strong adjectives.Use absolutely to make strong adjectives even stronger
