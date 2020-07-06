@@ -76,4 +76,23 @@ That English test wasn't **very** difficult! Studying with BBC Learning English 
 - Another way we use enough and not enough in English is with **nouns**, to say whether there is the right **amount of something**.
 * There was enough porridge for Goldilocks to satisfy her appetite. (She ate it all and wasn't hungry after - it was the right amount.)*
 - We use **too much and too many** in English to talk about an amount of something that **causes a problem** because it is more than we want or need.    
-- We use **too many with countable nouns**, like rules and people. We use **too much with uncountable nouns**, like salt and chocolate.
+- We use **too many with countable nouns**, like rules and people. We use **too much with uncountable nouns**, like salt and chocolate.  
+
+------
+## [intonation](https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-27/session-2/activity-2)   
+The way you make your voice go up and down when you speak is called intonation, and it's really important for questions. In English, questions that you can answer yes or no usually go up at the end - they have rising intonation. Questions that ask for certain information, with question words like when or where, tend to go down - they have falling intonation.
+
+When we use question tags, our intonation can change the meaning and purpose of our question.
+
+Firstly, we might be asking a question that we really don't know the answer to.( **up**)   
+Secondly, we might be using a question tag to check something we think is true. (**down**)   
+Thirdly, we might use a question tag to start a conversation.(**down**)   
+Here is one question tag and three possible meanings depending on the intonation:   
+You're our new designer, aren't you? (With the voice going up/rising intonation: this is a real question and the speaker doesn't know the answer.)
+
+You're our new designer, aren't you? (With the voice going down/falling intonation: the speaker thinks they know the answer to the question and wants to check.)
+
+You're our new designer, aren't you? (With the voice going down/falling intonation: the speaker is expressing interest and wants to start a conversation.)
+
+So remember, when a person says a question tag and their voice goes up, they probably don't know the answer. If their voice goes down, they might just be checking what they think is true!  
+*2020.7.2*   
