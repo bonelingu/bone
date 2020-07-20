@@ -128,24 +128,25 @@ the letter was carefully written
 **[Present simple](https://www.bbc.co.uk/learningenglish/english/course/intermediate/unit-1/session-2)**  
 We use the present simple for things that we do regularly and for facts, habits, truths and permanent situations. We often use time expressions like every day, once a week, on Fridays.
 
-I check my email every day. (regular activity)   
-Yuki works at the bank. (permanent situation)    
+I check my email every day. (regular activity)     
+Yuki works at the bank. (permanent situation)      
 Form: For positive sentences, use the same form as the infinitive without 'to' for I, you, we and they. For he, she and it, add -s or -es to the infinitive. Make questions and negatives with do / does + the infintive without 'to'.
 
-They live in Rome.
+They live in Rome.  
 Julian starts work at nine o’clock and finishes at five.
-I don't eat meat.
+I don't eat meat.  
 It doesn't usually snow in October.
 Why do you read the news online every day?
 Does the supermarket sell stamps?
 Present Continuous
 We use the present continuous for things that are happening at the time we are speaking, for temporary situations, and for activities that are in progress.
 
-Just a minute. I’m checking my email. (now)
-She usually works in London, but she’s working from home this week. (temporary)
-I’m studying Economics (activity in progress)
-We can also use the present continuous for future arrangements, usually with a time expression.
+Just a minute. I’m checking my email. (now)  
+She usually works in London, but she’s working from home this week. (temporary)   
 
+I’m studying Economics (activity in progress)  
+
+We can also use the present continuous for future arrangements, usually with a time expression.
 I'm seeing the doctor on Monday morning.
 Form:
 For positive sentences, the form is subject + am/is/are + verb-ing. Make questions and negatives with am/are/is + not + verb-ing.
@@ -183,9 +184,9 @@ We can still watch the film. It hasn’t started yet.
 Have you done your English homework yet?
 Note: Use the past simple for completed actions in the past.
 
-I saw Jenny yesterday.
-Peter moved to Saudi Arabia in 2011.
-Natasha didn't want to have another piece of cake.
+I saw Jenny yesterday.  
+Peter moved to Saudi Arabia in 2011.  
+Natasha didn't want to have another piece of cake.  
 When did you see Alex?
 Form:
 For positive sentences, the form is subject + have/has + past participle. Make negatives with not and change the word order to make questions.
@@ -194,4 +195,73 @@ I've finished the report.
 Jack's been in Italy since January.  
 We've just got back from Germany.  
 I haven’t seen Jenny this morning.  
-How long has Alex known Mitya?    
+How long has Alex known Mitya?        
+
+-----------------------------------------------------------2020.7.20  
+**Haggling in English**  
+
+- 'Do' = sell
+
+When we are haggling, instead of using the verb sell, we often use do. We use it with can/can't and could/couldn't:
+
+I can probably do it for about £650.  
+Can't you do it a bit cheaper?  
+Could you do it for 500?  
+You couldn't do it for £550?  
+-  To 'knock off'
+
+This phrasal verb means 'lower the price'.
+
+Can you knock off another £30?
+I could knock off £10 for you.
+- When you've got a deal: 'Go on then'
+
+To show that the price is agreed, it sounds very natural in spoken English for the buyer and/or the seller to say: Go on then.  
+
+Buyer: £600?  
+Seller: Go on then.  
+Buyer: I'll give you £40 for it.  
+Seller: Go on then.  
+---------------------------------------------
+- Time expressions with **at**
+
+**specific times** - at one o’clock / at 2:30pm  
+points of the day - at noon / at midday / at night / at midnight  
+**points of the day when things happen** - at breakfast / at dinner / at lunchtime  
+**festivals and special days** - at Easter, at Eid  
+weekend - at the weekend  
+- Time expressions with **on**  
+
+**specific dates** - on 3rd May  
+**specific days** - on Christmas Day / on New Year's Eve  
+**days of the week** - on Monday / on Mondays  
+- Time expressions with **in**  
+
+**parts of the day** - in the morning / in the afternoon / in the evening
+**seasons/month** - in spring / in summer / in autumn / in winter
+**years** - in 1996  
+- Tip 1 - On Saturday night
+Look at this sentence. Should in, on or at go in the gap?
+
+We're meeting __ Saturday night.
+We would normally say on Saturday and at night. So should it be on – for Saturday – or at – for night? The answer is:
+
+We're meeting on Saturday night.
+
+We use the preposition on even though there is another time expression afterwards.  
+
+- Tip 2 - On Christmas morning
+Why do you think we use on in this sentence?
+
+What did you do on Christmas morning?
+Normally we use at for festivals like Christmas and we use in for parts of the day like the morning, but Christmas Day is actually a specific day, rather than a whole festival, so we use on. Again, we use the preposition on even though there is another time expression afterwards.
+
+- Tip 3 - No preposition
+Finally, in, at and on are not generally used before the words today, tomorrow and yesterday:
+
+I can't go tomorrow
+He wrote that article yesterday
+We don't use in, on or at in time expressions with the words this, that, next, last, all, one, each, some and every:
+
+I slept all day
+He didn't come last night  
