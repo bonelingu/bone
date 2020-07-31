@@ -265,3 +265,20 @@ We don't use in, on or at in time expressions with the words this, that, next, l
 
 I slept all day
 He didn't come last night  
+
+----------------------------------------------------------------------------2020.7.31  
+## The present perfect continuous   
+### Form  
+**Subject + have/has/haven't/hasn't + been + present participle of main verb**  
+*Positive*  
+- Jack's working very hard for his exams. He's been revising all day.
+- I've been working at the café for two weeks.
+- You've been watching far too much telly for too long. Why don't you take up a new sport?
+*Negative*  
+- I haven't been drinking coffee these last few days and my head is much clearer.
+- Doctor, I've not been feeling good all the morning.
+*Question*  
+Present perfect continuous questions are made with:
+**Have/has not + subject + been + present participle**
+- Have you been eating all the biscuits? There are none left!
+- What have you been doing? You look exhausted!  
