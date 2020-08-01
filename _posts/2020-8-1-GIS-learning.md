@@ -102,7 +102,7 @@ Logit模型*
 #### 美国数据获取  
 - [美国地质调查局（USGS）](http://glovis.usgs.gov/
 )   
-- [美国国家航空航天局（NASA） (http://neo.sci.gsfc.nasa.gov)
+- [美国国家航空航天局（NASA)](http://neo.sci.gsfc.nasa.gov)
 - 美国人口普查局（U.S. Census Bureau）
 - 美国联邦应急管理局（FEMA）
 - 美国渔类及野生动植物管理局（USFWS）
