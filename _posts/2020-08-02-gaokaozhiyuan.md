@@ -5,11 +5,12 @@
 
 最开始他选了北京中医药大学，中国药科大学，郑州大学和长安大学​。    
 
-![20200802_201516_77](image/20200802_201516_77.png)   
+![1](https://github.com/bonelingu/bone/blob/master/images/gao1.jpg )  
 
-![20200802_201548_65](image/20200802_201548_65.png)   
 
-![20200802_201606_40](image/20200802_201606_40.png)
+![2](https://github.com/bonelingu/bone/blob/master/images/gao2.jpg)   
+
+![3](https://github.com/bonelingu/bone/blob/master/images/gao3.jpg)
 
 - 有没有想去的专业和城市​？
 - 都没什么喜欢的，这四个学校的城市就挺好，专业只要好就业就可以​。​  
