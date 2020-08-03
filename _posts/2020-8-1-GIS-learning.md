@@ -190,3 +190,37 @@ GIS数据库+土地适宜性分析模型+增长分析模型+土地分配模型
 图层、菜单条、工具条、状态栏、图形显示区
 - ArcScence/ArcGlobe  
 三维动态  
+### ArcGIS与CAD  
+- 湘源，飞时达  
+- CAD与ArcGIS  
+CAD的潜在要素
+point点，line线  
+- CAD转SHP：ArcGIS  
+- CAD转SHP：飞时达  
+多规合一平台  
+- [GIS转CAD](https://www.icourse163.org/learn/XMU-1002835009?tid=1205946205#/learn/content?type=detail&id=1210395620&cid=1212440591)  
+容差转换，将CAD未闭合的线段设置容差范围，将线转换为面  
+工具箱中的Feature，Feature to polygon
+![20200803_101854_30](image/20200803_101854_30.png)
+- CAD文字转点带属性    
+工具箱中的数据管理Feature,Feature to point
+
+![20200803_102321_72](image/20200803_102321_72.png)   
+
+- GIS转CAD  
+Conversion——toCAD  
+
+![20200803_102552_83](image/20200803_102552_83.png)   
+### ArcMap中加载互联网地图
+- ArcGIS自带的online
+文件file  
+
+![20200803_103614_12](image/20200803_103614_12.png)
+
+可以打开Google地图，必应地图及ESRI和网友共享的各种地图数据   
+- ArcGIS自带的BaseMap  
+file中打开    
+- GIS Server 加载地图  
+利用地理空间位置数据制作地图，将地图定义为地理数据的可视化表现，能根据用户请求返回相应的地图，包括PNG、GIF、JPEG等栅格图或SVG、WEB、CGM等矢量图
+通过WMS，如天地图
+- 地图下载器  
