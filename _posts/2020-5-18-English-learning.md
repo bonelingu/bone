@@ -282,3 +282,76 @@ Present perfect continuous questions are made with:
 **Have/has not + subject + been + present participle**
 - Have you been eating all the biscuits? There are none left!
 - What have you been doing? You look exhausted!  
+
+------------------------------------------------  2020.08.04  
+Uncountable nouns have no plural form and are not used with the indefinite article a or an.
+
+- Can you give me some information about accommodation in the city?
+
+There are three main types of uncountable nouns that students often think are countable:
+
+- activity nouns: travel, work, homework
+- information nouns: advice, information, knowledge, research
+- group nouns: accommodation, baggage, furniture, money, traffic, weather
+Other nouns that are uncountable are:
+
+- liquids and gasses: water, air
+- materials and substances: wood, rice
+- feelings and ideas: happiness, education
+- subjects: geography, history, economics  
+
+A few uncountable nouns look plural because they end in -s. But they use a singular verb like other uncountable nouns:
+Physics is a very interesting subject.       
+
+------------------------------------------------------
+We prefer 'every' when we are thinking about the whole number in a group, and 'each' when we are thinking about the members of the group as individuals.  
+
+-  Every room has a Wi-Fi connection. Each one has a different view.    
+
+ To emphasise the individual members of a group, use 'every', not 'each'.   
+ - I was too late to apply for accommodation. Every room in the building is already taken.  
+
+ For only two things, we can use 'each' but not 'every'.  
+ - The university has two student dormitories, with about 1,000 students in each building.   
+
+ 'Information' is an uncountable noun. 'Every' must be followed by a singular, countable noun.  
+ -  All the information about accommodation is on our website.      
+
+'Every' and 'each' must be followed by a singular noun. They can't be followed by a plural noun like 'students'.  
+- Every student has their own room.  
+- Each student has their own room.  
+
+1) **All** or **All the** is followed by a plural or uncountable noun. **Every** and **each** are followed by a singular noun.
+
+- All the students have their own rooms.
+- All the information about accommodation is on our website.
+- Every student has their own room.
+- Each student has their own room.
+2)  **Every** and **each** can often be used in the same place, but we prefer **every** when we are thinking about the whole number in a group, and **each** when we are thinking about the members of the group as individuals.
+
+- Every room has Wi-Fi. Each one has a different view.
+3) To emphasise the individual members of a group, use **every** not each.
+
+- I was too late to apply for accommodation. Every room in the building is already taken.
+4) For only two things, we can use **each** but not every.
+
+- The university has two student dormitories, with about 1,000 students in each building.
+5) **All** and **each** but not every can be followed by **of + a plural noun or pronoun**. Notice that **each of** with a plural noun or pronoun is followed by a singular verb.
+
+- All of the students have a phone in the room.
+- Each of them has a phone in their room.    
+
+**both, either, and neither with nouns**
+1) We use **both (of)**, **neither (of)** and **either (of)** to talk about two people or things. **Both** means this one AND the other one. **Neither** means NOT this one AND NOT the other one. **Either** means this one OR the other one. **Either** is used mainly in questions and negative sentences.
+
+- Both of the men are wearing black ties.
+- Both men are reading newspapers.
+- Neither man is wearing a pink t-shirt.
+- Neither of the men has blond hair.
+- I don't think either man is going to get the job.
+- She didn't choose either of them for the job.
+2) We often use these patterns: **both… and...**,**neither… nor...**, and **either… or...**
+
+- He plays both the violin and the guitar.
+- Neither me nor my brother are married.
+- Should I wear either this shirt or that one?  
