@@ -1,4 +1,17 @@
-#[自己动手作词云](https://mp.weixin.qq.com/s?__biz=MzA3MDQ2NzE5Mw==&mid=2652773538&idx=1&sn=efb9d44740ca41b39479bbf8c9a8db96&chksm=84d6d7b4b3a15ea2f8d7baeb3750b5cd06f225c6de0afd5e6f3f40ccc97a339aebdc18108490&token=184373101&lang=zh_CN#rd)  
+---
+
+layout: post
+
+title: [自己动手作词云](https://mp.weixin.qq.com/s?__biz=MzA3MDQ2NzE5Mw==&mid=2652773538&idx=1&sn=efb9d44740ca41b39479bbf8c9a8db96&chksm=84d6d7b4b3a15ea2f8d7baeb3750b5cd06f225c6de0afd5e6f3f40ccc97a339aebdc18108490&token=184373101&lang=zh_CN#rd)  
+
+date: 2020-08-29
+
+categories: Archive
+
+tags: 词云；python
+
+---
+
 
 市面上自动生成的词云网站挺多的，但是因为之前做过python的词云，觉得自定义会更自如一些（其实就是复习一下，不然全忘了），就用昨天爬取的数据来试验一下。
 
